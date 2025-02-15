@@ -187,6 +187,17 @@ export default function Left() {
                             </span>
                           </div>
                         </a>
+                        <div className="flex w-full h-auto items-center gap-3 py-[3px]">
+                          <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
+                            <span className="w-2 text-[10px]">#</span>
+                            <span className="text-banner text-[10px]">Node JS</span>
+                          </div>
+                          <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
+                            <span className="w-2 text-[10px]">#</span>
+                            <span className="text-banner text-[10px]">Rest API's</span>
+                          </div>
+                        </div>
+                      </div>    
                     <div className="max-w-s mt-5 w-full space-y-2">
                       <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
