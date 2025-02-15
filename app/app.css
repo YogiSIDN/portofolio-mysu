@@ -71,3 +71,7 @@ body {
   background-color: #383434;
   border-radius: 5px;
 }
+
+.backgroundAudio {
+  display: none; /* Menyembunyikan pemutar audio */
+}
