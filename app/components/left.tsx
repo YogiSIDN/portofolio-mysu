@@ -10,7 +10,7 @@ export default function Left() {
           className="h-60 w-full bg-banner"
         >
           <video className="w-full h-[200px] object-cover" loop autoPlay muted>
-            <source src="https://files.catbox.moe/kpwbbj.mp4" />
+            <source src="https://static.moewalls.com/videos/preview/2022/yae-miko-sakura-torii-gate-genshin-impact-preview.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
         </div>
@@ -69,7 +69,7 @@ export default function Left() {
                     <a
                       rel="noopener noreferrer nofollow"
                       target="_blank"
-                      href="/instagram"
+                      href="https://www.instagram.com/mysu_019?igsh=MTgxd2c0eWp4OWs5Yg=="
                       className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                     >
                       <svg
@@ -102,7 +102,7 @@ export default function Left() {
                     <a
                       rel="noopener noreferrer nofollow"
                       target="_blank"
-                      href="/github"
+                      href="https://github.com/mysu"
                       className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                     >
                       <svg
