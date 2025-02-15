@@ -147,7 +147,47 @@ export default function Left() {
                         </div>
                       </div> */}
                     <div className="max-w-s mt-5 w-full space-y-2">
-
+                      <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
+                        <a
+                          href="_cv"
+                          target="_blank"
+                          rel="noopener noreferrer nofollow"
+                          className="w-full transition-all sm:hover:opacity-70"
+                        >
+                          <div>
+                            <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
+                              <div className="flex items-center justify-center">
+                                <img className="block h-16 w-16 rounded object-cover" src="https://c.tenor.com/v4zvzMjQt5AAAAAd/cv-black.gif" alt="Media GIF" />
+                                <div className="mx-4 flex flex-col">
+                                  <span
+                                    title="Curriculum Vitae"
+                                    className="text-ellipsis text-[16px] text-zinc-400"
+                                  >
+                                    Download My Curriculum Vitae
+                                  </span>
+                                  <span
+                                    title="CV"
+                                    className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
+                                  >
+                                    Documents containing personal information, career portfolio, achievements, and data needed to apply for a job.
+                                  </span>
+                                </div>
+                              </div>
+                              <span className="absolute right-2 text-zinc-600 transition-all">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  viewBox="0 0 20 20"
+                                  fill="currentColor"
+                                  aria-hidden="true"
+                                  className="h-4 w-8"
+                                >
+                                  <path d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"></path>
+                                </svg>
+                              </span>
+                            </span>
+                          </div>
+                        </a>
+                    <div className="max-w-s mt-5 w-full space-y-2">
                       <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
                           href="https://rest.api-otakuwibu.my.id"
