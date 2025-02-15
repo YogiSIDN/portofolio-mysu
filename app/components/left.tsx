@@ -175,10 +175,10 @@ export default function Left() {
                                     title="Nothing"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    cScrape
+                                    Otaku Wibu Nusantara Rest API's
                                   </span>
                                   <span
-                                    title="Rest API's"
+                                    title="API's"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
                                     Otaku Wibu Nusantara Rest API's
@@ -262,7 +262,7 @@ export default function Left() {
                           </div>
                           <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
                             <span className="w-2 text-[10px]">#</span>
-                            <span className="text-banner text-[10px]">Bot</span>
+                            <span className="text-banner text-[10px]">Bot Whatsapp</span>
                           </div>
                         </div>
                       </div>
