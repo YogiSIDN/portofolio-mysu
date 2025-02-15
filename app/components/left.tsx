@@ -20,7 +20,7 @@ export default function Left() {
               <div className="relative">
                 <img
                   className="rounded-full border-4 border-solid border-primary bg-primary object-cover"
-                  src="/image.png"
+                  src="/image.jpg"
                   alt="profile"
                   width={100}
                   height={100}
