@@ -16,7 +16,6 @@ function Banners(): React.ReactNode {
       <Banner icon="🎮" label="Game" />
       <Banner icon="🎐" label="Anime" />
       <Banner icon="🎵" label="Music" />
-      <Banner icon="📸" label="Photography" />
       <Banner icon="👨‍💻" label="Learn" />
     </div>
   );

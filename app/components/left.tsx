@@ -181,7 +181,7 @@ export default function Left() {
                                     title="API's"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    Rest API's dibuat untuk keperluan bot.
+                                    Rest API's are created for bots.
                                   </span>
                                 </div>
                               </div>
