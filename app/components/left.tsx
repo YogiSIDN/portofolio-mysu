@@ -13,7 +13,7 @@ export default function Left() {
             <source src="https://static.moewalls.com/videos/preview/2021/artoria-pendragon-lily-fate-grand-order-preview.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
-          <audio controls autoPlay muted>
+          <audio className="backgroundAudio" loop autoPlay>
             <source src="https://files.catbox.moe/nmgk78.mp3" type="audio/mpeg" />
             Maaf tampaknya browser anda tidak support tag audio.
           </audio>
