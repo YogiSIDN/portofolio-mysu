@@ -46,11 +46,11 @@ export default function Left() {
                   </div>
                   <p className="text-center text-sm text-gray-400 dark:text-gray-500">
                     <a
-                      rel="noopener noreferrer nofollow"
-                      target="_blank"
-                      href="https://github.com/mysu-dev"
+                      // rel="noopener noreferrer nofollow"
+                      // target="_blank"
+                      // href="https://github.com/mysu-dev"
                     >
-                      信じてください、無駄なことなど何もないのです
+                      Mohammad Yogi Sugalih
                     </a>
                   </p>
                   <div className="mt-1 flex flex-col">
