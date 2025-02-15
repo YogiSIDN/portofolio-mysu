@@ -261,9 +261,8 @@ export default function Left() {
           <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
             <footer>
               <div className="container mx-auto text-center opacity-60">
-                Thanks to <a className="text-blue-500 hover:text-opacity-50" href="https://github.com/lrmn7">L RMN7</a>
                 <p className="text-gray text-s">
-                  © 2025 L RMN. All rights reserved.
+                  © 2025 MYSU. All rights reserved.
                 </p>
               </div>
             </footer>
