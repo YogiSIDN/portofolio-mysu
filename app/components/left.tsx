@@ -55,7 +55,7 @@ export default function Left() {
                   </p>
                   <div className="mt-1 flex flex-col">
                     <p className="inline-block whitespace-pre-wrap text-center text-sm text-gray-500 dark:text-gray-400">
-                      Welcome to my simple portfolio website. Below are some of my skills and some of my projects that I have worked  <span id="flip">on.</span>
+                      Welcome to my simple portofolio website. Below are some of my skills and some of my projects that I have worked <span id="flip">on.</span>
                     </p>
                   </div>
                 </div>
@@ -161,7 +161,7 @@ export default function Left() {
 
                       <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://github.com/Fahmi-XD/cScrape"
+                          href="https://rest.api-otakuwibu.my.id"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -178,10 +178,10 @@ export default function Left() {
                                     cScrape
                                   </span>
                                   <span
-                                    title="Web Scraping"
+                                    title="Rest API's"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    Kumpulan kode scrape yang dibuat menggunakan nodejs.
+                                    Otaku Wibu Nusantara Rest API's
                                   </span>
                                 </div>
                               </div>
@@ -217,7 +217,7 @@ export default function Left() {
 
                       <div className="bg-animate group mb-3 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://github.com/ditzDev/shikimori"
+                          href="https://wa.me/6281410404318"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -231,13 +231,13 @@ export default function Left() {
                                     title="Nothing"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    Shikimori Bot
+                                    Yue Emdeh 
                                   </span>
                                   <span
-                                    title="Whatsapp bot"
+                                    title="Whatsapp Bot"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    Simpel bot whatsapp - Button
+                                    Powerfull simpel bot whatsapp
                                   </span>
                                 </div>
                               </div>
