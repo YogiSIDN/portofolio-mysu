@@ -30,7 +30,7 @@ export default function Left() {
                 <div className="mb-1 flex flex-col">
                   <div className="mt-1 flex flex-row items-center justify-center">
                     <span className="flex text-center text-2xl font-bold leading-tight text-zinc-300">
-                      Fahmi XD
+                      @mysu
                     </span>
                     <div>
                       <svg
@@ -48,14 +48,14 @@ export default function Left() {
                     <a
                       rel="noopener noreferrer nofollow"
                       target="_blank"
-                      href="https://github.com/Fahmi-XD"
+                      href="https://github.com/mysu-dev"
                     >
                       信じてください、無駄なことなど何もないのです
                     </a>
                   </p>
                   <div className="mt-1 flex flex-col">
                     <p className="inline-block whitespace-pre-wrap text-center text-sm text-gray-500 dark:text-gray-400">
-                      I want to be <span id="flip">Yours</span>
+                      Welcome to my simple portfolio website. Below are some of my skills and some of my projects that I have worked  <span id="flip">on.</span>
                     </p>
                   </div>
                 </div>
