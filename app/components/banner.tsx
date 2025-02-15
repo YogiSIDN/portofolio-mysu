@@ -12,11 +12,11 @@ function Banner({ icon, label }: { icon: string, label: string }): React.ReactNo
 function Banners(): React.ReactNode {
   return (
     <div className="mx-auto flex flex-wrap items-center justify-center gap-1">
-      <Banner icon="💻" label="Coder" />
-      <Banner icon="🎮" label="Game" />
-      <Banner icon="🎐" label="Anime" />
-      <Banner icon="🎵" label="Music" />
-      <Banner icon="👨‍💻" label="Learn" />
+      <Banner icon="💻" label="CODE LIFE" />
+      <Banner icon="🎌" label="WEEB NATION" />
+      <Banner icon="📖" label="MANGA READER" />
+      <Banner icon="🎧" label="PLAY LIST ADDICT" />
+      <Banner icon="🧠" label="STAY CURIOUS" />
     </div>
   );
 }

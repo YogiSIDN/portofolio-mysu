@@ -10,7 +10,7 @@ export default function Left() {
           className="h-60 w-full bg-banner"
         >
           <video className="w-full h-[200px] object-cover" loop autoPlay muted>
-            <source src="https://static.moewalls.com/videos/preview/2022/yae-miko-sakura-torii-gate-genshin-impact-preview.mp4" />
+            <source src="https://static.moewalls.com/videos/preview/2024/frieren-in-the-field-beyond-journeys-end-preview.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
         </div>
