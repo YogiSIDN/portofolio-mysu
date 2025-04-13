@@ -10,13 +10,9 @@ export default function Left() {
           className="h-60 w-full bg-banner"
         >
           <video className="w-full h-[200px] object-cover" loop autoPlay muted>
-            <source src="https://static.moewalls.com/videos/preview/2021/artoria-pendragon-lily-fate-grand-order-preview.mp4" />
+            <source src="https://files.catbox.moe/81gbrc.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
-          <audio className="backgroundAudio" loop autoPlay>
-            <source src="https://files.catbox.moe/nmgk78.mp3" type="audio/mpeg" />
-            Maaf tampaknya browser anda tidak support tag audio.
-          </audio>
         </div>
         <div className="mx-auto -mt-[130px] flex w-full max-w-2xl flex-1 flex-col items-center px-0 sm:px-10">
           <div className="relative mb-6 flex w-full flex-col justify-center bg-opacity-90 px-2 sm:min-h-full sm:rounded-lg sm:px-6">
