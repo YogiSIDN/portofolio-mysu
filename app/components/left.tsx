@@ -10,7 +10,7 @@ export default function Left() {
           className="h-60 w-full bg-banner"
         >
           <video className="w-full h-[200px] object-cover" loop autoPlay muted>
-            <source src="https://files.catbox.moe/81gbrc.mp4" />
+            <source src="https://files.catbox.moe/s0m8c8.mp4" />
             Maaf tampaknya browser anda tidak support tag video
           </video>
         </div>
