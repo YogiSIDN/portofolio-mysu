@@ -268,6 +268,23 @@ export default function Left() {
           </div>
         </div>
       </div>
+      {/* ======= Tambahan audio + scroll trigger ======= */}
+    <audio id="myAudio" src="https://files.catbox.moe/88uli1.mp3"></audio>
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+          let audioStarted = false;
+          window.addEventListener('scroll', function() {
+            if (!audioStarted) {
+              document.getElementById('myAudio').play().catch(function(err) {
+                console.log('Autoplay prevented:', err);
+              });
+              audioStarted = true;
+            }
+          });
+        `,
+      }}
+    />
     </div>
   )
 }
